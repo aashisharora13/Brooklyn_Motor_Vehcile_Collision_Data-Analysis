@@ -51,8 +51,9 @@ To reduce the number of these incidents I would suggest the below- <br>
  </ol>
 
 # Accident By days and hour
-![image](https://user-images.githubusercontent.com/16829371/39675974-66c4b05e-5130-11e8-81eb-7199bfb928c9.png)
-<b> Analysis and Suggestions
+![image](https://user-images.githubusercontent.com/16829371/39675974-66c4b05e-5130-11e8-81eb-7199bfb928c9.png)<br>
+
+<b> Analysis and Suggestions </b>
 <ol>
   <li>The trend shows the maximum accidents happen on Friday between 4-5 PM majorly because people are in a rush to leave office.</li>
   <li>The best approach to reduce the incidents is to display warning signs on highways to drive slow, don’t text or talk on phone while driving.</li>
