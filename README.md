@@ -26,6 +26,15 @@ This repository contains the work related to analysis done on NYC Motor Collisio
 <li> The trend shows that the most affected injured population comprises of Motorist followed by the Pedestrians.
 <li> Under the Vision Zero plan, New York City and Brooklyn Area had its safest-ever year in 2016 with the fewest traffic fatalities ever recorded. Vision Zero is a program created by New York City Mayor Bill de Blasio in 2014. Its purpose is to reduce by 50% the number traffic fatalities by 2025.
 
+# Suggestions to Curb the Accidents 
+
+![image](https://user-images.githubusercontent.com/16829371/39675906-6c23e0f2-512f-11e8-9b0f-99655c5a1d3b.png)
+
+<li> The major accidents for the motorists occurred in the area of Linden Boulevard followed by Ralph Avenue.
+<li> To reduce the number of these incidents I would suggest the below-
+1. Put up more signs and boards especially for the right of way.<br>
+2. Add more speed bumps in these specific areas.<br>
+4. Increase the number of traffic cameras to capture the people breaking the traffic laws and penalize them accordingly.<br>
 
 
 
