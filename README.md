@@ -31,10 +31,10 @@ This repository contains the work related to analysis done on NYC Motor Collisio
 ![image](https://user-images.githubusercontent.com/16829371/39675906-6c23e0f2-512f-11e8-9b0f-99655c5a1d3b.png)
 
 <li> The major accidents for the motorists occurred in the area of Linden Boulevard followed by Ralph Avenue.
-<li> To reduce the number of these incidents I would suggest the below-
-1. Put up more signs and boards especially for the right of way.<br>
-2. Add more speed bumps in these specific areas.<br>
-4. Increase the number of traffic cameras to capture the people breaking the traffic laws and penalize them accordingly.<br>
+<li> To reduce the number of these incidents I would suggest the below- <br>
+<ol> Put up more signs and boards especially for the right of way.<br>
+<ol> Add more speed bumps in these specific areas.<br>
+<ol> Increase the number of traffic cameras to capture the people breaking the traffic laws and penalize them accordingly.<br>
 
 
 
