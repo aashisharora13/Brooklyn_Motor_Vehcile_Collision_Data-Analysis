@@ -7,4 +7,4 @@ This repository contains the work related to analysis done on NYC Motor Collisio
 
 <li> Motivation behind the analysis is to understand different factors associated with accidents in Brooklyn area and recommend ideas for reducing them.
 
-The Data used for analysis is from Year 2015 - 2017 for Brooklyn Borough.</li>
+<li> The Data used for analysis is from Year 2015 - 2017 for Brooklyn Borough.
