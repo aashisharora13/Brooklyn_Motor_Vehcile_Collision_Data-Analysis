@@ -39,6 +39,18 @@ This repository contains the work related to analysis done on NYC Motor Collisio
   <li> Increase the number of traffic cameras to capture the people breaking the traffic laws and penalize them accordingly.</li>
 </ol>
 
+![image](https://user-images.githubusercontent.com/16829371/39675953-0582d06e-5130-11e8-8177-e302ced8ed6a.png)
+
+The major accidents for the pedestrians occurred in the area of 4th Avenue.<br>
+To reduce the number of these incidents I would suggest the below- <br>
+<ol>
+  <li>Check the distance the pedestrians needs to cross and if it could be shortened by redesigning specific streets in these priority areas. </li>
+  <li>Increase the enforcement officials in these places so that traffic laws are strictly followed there.</li>
+  <li>There should be strict enforcement on passenger/taxi vehicles as those are the ones majorly responsible for reckless driving.</li>
+  <li>Collaborate with agencies to provide safety demonstrations to the public, strict training for passenger vehicles and people who have received speeding tickets in the past.</li>
+ </ol>
+
+
 
 
 
