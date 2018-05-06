@@ -50,7 +50,14 @@ To reduce the number of these incidents I would suggest the below- <br>
   <li>Collaborate with agencies to provide safety demonstrations to the public, strict training for passenger vehicles and people who have received speeding tickets in the past.</li>
  </ol>
 
-
+# Accident By days and hour
+![image](https://user-images.githubusercontent.com/16829371/39675974-66c4b05e-5130-11e8-81eb-7199bfb928c9.png)
+<b> Analysis and Suggestions
+<ol>
+  <li>The trend shows the maximum accidents happen on Friday between 4-5 PM majorly because people are in a rush to leave office.</li>
+  <li>The best approach to reduce the incidents is to display warning signs on highways to drive slow, don’t text or talk on phone while driving.</li>
+  <li>Lot of people engage in drinking in the evening and they need to understand the impact if they drink above the limit. The penalty should be heavy in these cases to set good examples. Law enforcement should be added on Fri – Sun to track these drivers. </li>
+  </ol>
 
 
 
