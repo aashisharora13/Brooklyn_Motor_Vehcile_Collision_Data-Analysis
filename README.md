@@ -1,4 +1,4 @@
-# Brooklyn Motor Vehcile Collision Data Analysis
+# <center> Brooklyn Motor Vehcile Collision Data Analysis
 This repository contains the work related to analysis done on NYC Motor Collision data so as to understand factors associated with accidents in Brooklyn area.
 
 ![image](https://user-images.githubusercontent.com/16829371/39675773-f171ec9c-512d-11e8-81b5-d5408919c3c7.png)
