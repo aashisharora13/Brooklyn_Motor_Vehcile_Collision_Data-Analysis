@@ -60,6 +60,12 @@ To reduce the number of these incidents I would suggest the below- <br>
   <li>Lot of people engage in drinking in the evening and they need to understand the impact if they drink above the limit. The penalty should be heavy in these cases to set good examples. Law enforcement should be added on Fri – Sun to track these drivers. </li>
   </ol>
 
+# References
+<ol>
+  <li>Google Big Query - https://cloud.google.com/bigquery/
+  <li>Tableau 10.5 for analyzing the data.
+  <li>Link To Dashboard: - Tableau Dashboard - Brooklyn Collision Analysis
+  <li>NYPD Motor Vehicle Collision Data - https://cloud.google.com/bigquery/public-data/nypd-mv-collisions
 
 
 
