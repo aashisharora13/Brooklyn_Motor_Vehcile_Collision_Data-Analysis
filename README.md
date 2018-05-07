@@ -64,7 +64,7 @@ To reduce the number of these incidents I would suggest the below- <br>
 <ol>
   <li>Google Big Query - https://cloud.google.com/bigquery/
   <li>Tableau 10.5 for analyzing the data.
-  <li>Link To Dashboard: - Tableau Dashboard - Brooklyn Collision Analysis
+  <li>Link To Dashboard: - https://public.tableau.com/profile/vizaarora#!/vizhome/Brooklyn-Accident_Analysis/BrooklynCollisionAnalysis
   <li>NYPD Motor Vehicle Collision Data - https://cloud.google.com/bigquery/public-data/nypd-mv-collisions
 
 
